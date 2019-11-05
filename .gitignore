@@ -1,0 +1,7 @@
+# Ignore SuiteOPT and all its contents
+/SuiteOPT/*
+# Ignore distribution files
+/dist/*
+# Ignore egg files
+/SuiteOPT.egg-info/*
+/.eggs/*
